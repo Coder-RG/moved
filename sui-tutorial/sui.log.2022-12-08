@@ -1,0 +1,58 @@
+2022-12-08T10:36:25.203982Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-12-08T10:36:25.204671Z  INFO sui::client_commands: Transaction Hash: GYLnmVBdyXKBmALvTWx4zXjodo+/aNbWVKryDeMOH1Q=
+2022-12-08T10:36:25.204679Z  INFO sui::client_commands: Transaction Signature: AA==@ZMI/e4cflDw/8gZMuRF0qPQGuuxV4uiS1mb2LlfAG1Jbz8WsRTbsm/08kPIUK7BIVNjOQsGUsLo92i2/D6UwAg==@b3LDBGFr2G4ek9agYwHxwrBpQCQH7R19n7SEESc4vzw=
+2022-12-08T10:36:25.204683Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[1, 2, 3]>
+2022-12-08T10:36:25.204688Z  INFO sui::client_commands: Transaction Kind : Publish
+2022-12-08T10:36:25.204692Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-12-08T10:36:25.204696Z  INFO sui::client_commands: Status : Success
+2022-12-08T10:36:25.204700Z  INFO sui::client_commands: Created Objects:
+2022-12-08T10:36:25.204704Z  INFO sui::client_commands:   - ID: 0x181353953b33fb6157512c00d72cf74c031b789c , Owner: Immutable
+2022-12-08T10:36:25.204708Z  INFO sui::client_commands:   - ID: 0xeb4f17b31bee7c12a351edf41ec1c318c3d4911e , Owner: Account Address ( 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9 )
+2022-12-08T10:36:25.204712Z  INFO sui::client_commands: Mutated Objects:
+2022-12-08T10:36:25.204717Z  INFO sui::client_commands:   - ID: 0x09dd77c5041ff1f63b060e966134d18f5a85c258 , Owner: Account Address ( 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9 )
+2022-12-08T10:57:36.092682Z  INFO sui::client_commands: Created new keypair for address with scheme ED25519: [0xa804cc6651a4e2a2c3d8933df82b2d985213a4c2]
+2022-12-08T10:57:36.092749Z  INFO sui::client_commands: Secret Recovery Phrase : [tissue century picnic clarify federal exhaust siege dentist hidden explain cluster siege]
+2022-12-08T11:04:24.902661Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-12-08T11:04:24.902766Z  INFO sui::client_commands: Transaction Hash: /rpRvYUTmM8hPM3Kak6qtm/fAv/M9QLc17ZvhFZt4iY=
+2022-12-08T11:04:24.902775Z  INFO sui::client_commands: Transaction Signature: AA==@Xj8lSzvzzvAw+R6QA7CCpqjDYqbcORezP5YKQ6rdDia8hCMe4Hp8W/pe21O9f5zvg4ykvflK6RhdyoBsw5jlDQ==@b3LDBGFr2G4ek9agYwHxwrBpQCQH7R19n7SEESc4vzw=
+2022-12-08T11:04:24.902782Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 1, 3]>
+2022-12-08T11:04:24.902788Z  INFO sui::client_commands: Transaction Kind : Call
+2022-12-08T11:04:24.902794Z  INFO sui::client_commands: Package ID : 0xfc2d51e4da7a5d59a9935229b29a2bcb7ccb97a2
+2022-12-08T11:04:24.902800Z  INFO sui::client_commands: Module : my_module
+2022-12-08T11:04:24.902805Z  INFO sui::client_commands: Function : sword_create
+2022-12-08T11:04:24.902811Z  INFO sui::client_commands: Arguments : ["0xb3e5b606426ce8e5bd16dab140a0f37370d4575b", 42, "\u0000\u0000\u0000\u0000\u0000\u0000\u0000", "0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9"]
+2022-12-08T11:04:24.902816Z  INFO sui::client_commands: Type Arguments : []
+2022-12-08T11:04:24.902822Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-12-08T11:04:24.902827Z  INFO sui::client_commands: Status : Success
+2022-12-08T11:04:24.902832Z  INFO sui::client_commands: Created Objects:
+2022-12-08T11:04:24.902838Z  INFO sui::client_commands:   - ID: 0x5415b792e36b13c19746623f7e4478131bfa39af , Owner: Account Address ( 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9 )
+2022-12-08T11:04:24.902843Z  INFO sui::client_commands: Mutated Objects:
+2022-12-08T11:04:24.902848Z  INFO sui::client_commands:   - ID: 0x09dd77c5041ff1f63b060e966134d18f5a85c258 , Owner: Account Address ( 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9 )
+2022-12-08T11:04:24.902854Z  INFO sui::client_commands:   - ID: 0xb3e5b606426ce8e5bd16dab140a0f37370d4575b , Owner: Account Address ( 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9 )
+2022-12-08T12:41:24.021841Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2022-12-08T12:41:24.022765Z  INFO sui::client_commands: Transaction Hash: j5ABzLRKYQrNOL2FTIqRsGrQvbIeP9c/XMKIBV+fnoU=
+2022-12-08T12:41:24.022771Z  INFO sui::client_commands: Transaction Signature: AA==@on3tvbT0mw1YoicJKEQn7ICMYVXTmHowRM3swnkPN2W+9BwSmODKBrCcGlKeQxwCBYGBkDV/dRhKJ6qIW1u8DQ==@b3LDBGFr2G4ek9agYwHxwrBpQCQH7R19n7SEESc4vzw=
+2022-12-08T12:41:24.022777Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 2, 3]>
+2022-12-08T12:41:24.022780Z  INFO sui::client_commands: Transaction Kind : Call
+2022-12-08T12:41:24.022784Z  INFO sui::client_commands: Package ID : 0xfc2d51e4da7a5d59a9935229b29a2bcb7ccb97a2
+2022-12-08T12:41:24.022787Z  INFO sui::client_commands: Module : my_module
+2022-12-08T12:41:24.022790Z  INFO sui::client_commands: Function : sword_create
+2022-12-08T12:41:24.022794Z  INFO sui::client_commands: Arguments : ["0xb3e5b606426ce8e5bd16dab140a0f37370d4575b", 49, "\u0000\u0000\u0000\u0000\u0000\u0000\u0000", "0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9"]
+2022-12-08T12:41:24.022797Z  INFO sui::client_commands: Type Arguments : []
+2022-12-08T12:41:24.022800Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2022-12-08T12:41:24.022803Z  INFO sui::client_commands: Status : Success
+2022-12-08T12:41:24.022806Z  INFO sui::client_commands: Created Objects:
+2022-12-08T12:41:24.022810Z  INFO sui::client_commands:   - ID: 0xc60b809fd66ac475e13fd00ded057dcf1d807cb0 , Owner: Account Address ( 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9 )
+2022-12-08T12:41:24.022813Z  INFO sui::client_commands: Mutated Objects:
+2022-12-08T12:41:24.022817Z  INFO sui::client_commands:   - ID: 0x09dd77c5041ff1f63b060e966134d18f5a85c258 , Owner: Account Address ( 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9 )
+2022-12-08T12:41:24.022820Z  INFO sui::client_commands:   - ID: 0xb3e5b606426ce8e5bd16dab140a0f37370d4575b , Owner: Account Address ( 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9 )
+2022-12-08T13:05:17.683582Z  INFO sui::client_commands: Created new keypair for address with scheme ED25519: [0xc404301d2c5a9791d25b65f58c1383f765af1011]
+2022-12-08T13:05:17.683870Z  INFO sui::client_commands: Secret Recovery Phrase : [harbor bunker horse inflict loop ladder awkward lumber still supreme sniff spread]
+2022-12-08T13:07:10.373570Z  INFO sui::client_commands: Active address switched to 0xc404301d2c5a9791d25b65f58c1383f765af1011
+2022-12-08T13:08:12.382465Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2022-12-08T13:08:12.382580Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2022-12-08T13:08:12.382589Z  INFO sui::client_commands:  0x7cf216ae31210480517dcfbedd541bdeb3d055f2 |  10000000  
+2022-12-08T13:08:12.382628Z  INFO sui::client_commands:  0x90ab7c6bed6e628fdaacda537ef46023cac5504e |  10000000  
+2022-12-08T13:08:12.382644Z  INFO sui::client_commands:  0xad0d290ff522535424f2794f4e606f4874004286 |  10000000  
+2022-12-08T13:08:12.382648Z  INFO sui::client_commands:  0xcfa93766d6dcc454f218c96afa34e7eb3e849166 |  10000000  
+2022-12-08T13:08:12.382652Z  INFO sui::client_commands:  0xe5767956ebadb0cceb429ea4dabca1f14bae48c1 |  10000000  

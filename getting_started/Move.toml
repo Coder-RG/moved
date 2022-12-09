@@ -1,0 +1,9 @@
+[package]
+name = "getting-started"
+version = "0.0.0"
+
+[addresses]
+namedAddr = "0x2"
+
+[dependencies]
+MoveStdlib = { local = "../move/language/move-stdlib/", addr_subst = { "std" = "0x1" } }

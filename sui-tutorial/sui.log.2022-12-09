@@ -1,0 +1,19 @@
+2022-12-09T07:04:02.399079Z  WARN sui::sui_commands: Client/Server api version mismatch, client api version : 0.17.0, server api version : 0.18.1
+2022-12-09T07:04:02.699660Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2022-12-09T07:04:02.699693Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2022-12-09T07:44:35.904361Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.18.0, server api version : 0.18.1
+2022-12-09T07:44:36.194733Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2022-12-09T07:44:36.195006Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2022-12-09T07:49:50.441501Z  INFO sui::client_commands: 0xc404301d2c5a9791d25b65f58c1383f765af1011
+2022-12-09T07:50:20.009863Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.18.0, server api version : 0.18.1
+2022-12-09T07:50:21.784681Z  INFO sui::client_commands:                  Object ID                  |  Gas Value 
+2022-12-09T07:50:21.784717Z  INFO sui::client_commands: ----------------------------------------------------------------------
+2022-12-09T07:50:21.784724Z  INFO sui::client_commands:  0x0db8113be0c7cf16c1194dad7792c836d9cee9e4 |  10000000  
+2022-12-09T07:50:21.784730Z  INFO sui::client_commands:  0x27c56ab7d3890ed825dce6274317b4e24a8d7875 |  10000000  
+2022-12-09T07:50:21.784739Z  INFO sui::client_commands:  0x39ab9172ca0c7295da3cf05de4c747a0c2ef98ce |  10000000  
+2022-12-09T07:50:21.784745Z  INFO sui::client_commands:  0xa5c7c33bdee85b730fef2f2ba59464a643dc90d3 |  10000000  
+2022-12-09T07:50:21.784751Z  INFO sui::client_commands:  0xad09a142fad9f33bdf9bbc3fb2fad64bfd924bca |  10000000  
+2022-12-09T07:50:39.584344Z  INFO sui::client_commands: Showing 3 results.
+2022-12-09T07:50:39.584430Z  INFO sui::client_commands: 0x5260a4c052716f3fe7cf4d2561fb158da11f5dc9
+2022-12-09T07:50:39.584434Z  INFO sui::client_commands: 0xa804cc6651a4e2a2c3d8933df82b2d985213a4c2
+2022-12-09T07:50:39.584436Z  INFO sui::client_commands: 0xc404301d2c5a9791d25b65f58c1383f765af1011
